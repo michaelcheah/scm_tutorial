@@ -1,0 +1,1 @@
+This is a proper test. This is a different file from branchtest.txt
